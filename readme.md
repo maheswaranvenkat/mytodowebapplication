@@ -15,7 +15,7 @@ We will deploy to Docker as a WAR
 - http://localhost:8080/login with atc/dummy as credentials
 - You can add, delete and update your todos
 - Spring Security is used to secure the application
-- `com.in28minutes.springboot.web.security.SecurityConfiguration` contains the in memory security credential configuration.
+- `com.atc.springboot.web.security.SecurityConfiguration` contains the in memory security credential configuration.
 
 ## H2 Console
 
